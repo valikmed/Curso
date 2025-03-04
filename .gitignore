@@ -1,0 +1,31 @@
+# Archivos y directorios ignorados
+
+# Archivos de configuración
+*.ini
+*.cfg
+
+# Archivos de logs
+*.log
+
+# Archivos de datos
+*.csv
+*.json
+
+# Directorios de datos
+data/
+
+# Archivos de cache
+*.pyc
+*.cache
+
+# Directorios de cache
+__pycache__/
+
+# Archivos de IDE
+*.idea/
+*.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
